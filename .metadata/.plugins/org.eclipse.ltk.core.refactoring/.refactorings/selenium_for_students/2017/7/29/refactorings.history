@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;br.org.cesar.common.PO_ClasseDeTestes.clickSubMenuSelenium().SubMenu&apos; in &apos;br.org.cesar.common.PO_ClasseDeTestes.clickSubMenuSelenium()&apos; to field&#x0D;&#x0A;- Original project: &apos;selenium_for_students&apos;&#x0D;&#x0A;- Original element: &apos;br.org.cesar.common.PO_ClasseDeTestes.clickSubMenuSelenium().SubMenu&apos;&#x0D;&#x0A;- Field name: &apos;subMenu&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;&#x0D;&#x0A;- Declare field &apos;static&apos;" description="Convert local variable &apos;SubMenu&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src\/main\/java&lt;br.org.cesar.common{PO_ClasseDeTestes.java" name="subMenu" selection="1635 14" stamp="1500403308442" static="true" version="1.0" visibility="2"/>
+</session>
